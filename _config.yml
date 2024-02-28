@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "慜赫"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bbright.png"
   bio              : "총명하며 빛나라"
   location         : "South Korea"
   email            : 
@@ -123,6 +123,10 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/@vihaaxn" 
+
 
 # Site Footer
 footer:
@@ -145,6 +149,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/@vihaaxn" 
 
 
 # Reading Files
@@ -286,3 +293,9 @@ defaults:
       share: true
       related: true
       show_date: true
+      toc: true
+      toc_sticky: false
+      toc_label: 목차
+      toc_icon: "fas fa-window-restore"
+
+
