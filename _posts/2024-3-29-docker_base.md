@@ -8,6 +8,8 @@ author_profile: false
 ---
 
 
+![dk_logo]({{site.url}}/assets/images/2024-3-devstu/dk_logo.png)
+
 # Docker 생성
 
 ## Docker를 이용한 리눅스 배포판 실행
