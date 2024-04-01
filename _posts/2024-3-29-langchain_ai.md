@@ -7,6 +7,10 @@ toc: true
 author_profile: false
 ---
 
+**[공지사항]** [민혁 블로그 신규 포스팅 안내 드립니다.](https://xvihaan.github.io/event/first/)
+{: .notice--danger}
+
+
 ![lc_logo]({{site.url}}/assets/images/2024-3-devstu/lc_logo.png)
 
 

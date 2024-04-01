@@ -7,6 +7,12 @@ toc: true
 author_profile: false
 ---
 
+# Docker 기초 실습하기
+
+**[공지사항]** [민혁 블로그 신규 포스팅 안내 드립니다.](https://xvihaan.github.io/event/first/)
+{: .notice--danger}
+
+
 ![dk_logo]({{site.url}}/assets/images/2024-3-devstu/dk_logo.png)
 
 # Docker 생성
