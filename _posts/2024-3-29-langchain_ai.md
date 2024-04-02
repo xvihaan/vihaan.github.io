@@ -7,6 +7,8 @@ toc: true
 author_profile: false
 ---
 
+# AutoML과 Langchain 질문하기
+
 **[공지사항]** [민혁 블로그 신규 포스팅 안내 드립니다.](https://xvihaan.github.io/event/first/)
 {: .notice--danger}
 
