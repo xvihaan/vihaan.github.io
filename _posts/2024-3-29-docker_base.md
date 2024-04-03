@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Doker 기초 실습"
+title:  "Docker 기초 실습"
 categories: docker
 tags: [Docker, Kurbernets, DevOps, MLOps]
 toc: true
