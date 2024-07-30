@@ -9,6 +9,9 @@ author_profile: false
 
 
 # LLamaIndex vs LangChain
+
+---
+
 참고: https://datasciencedojo.com/blog/llamaindex-vs-langchain/
 
 
@@ -43,7 +46,7 @@ LangChain은 후자 단계, 특히 **다중 에이전트 시스템**을 통해 A
 LangChain은 개발자가 **검색 증강 생성(RAG)** 과 같은 작업을 조율하고 LLM의 **생성 프로세스에서 외부 데이터를 사용**하는 단계를 제작할 수 있는 확장성을 바탕. 
 	RAG를 통해 LangChain은 생성 중에 **개인화된 데이터를 전송**하고 **특정 요구 사항을 충족**하도록 출력을 맞춤화하는 마법을 구현하는 전달자 역할 수행
 
-### LanChain의 특징
+### LangChain의 특징
 
 #### 모델 I/O:
 LangChain 모듈 모델 I/O는 LLM과 상호 작용하여 개발자가 LLM 기능을 애플리케이션에 통합할 수 있도록 표준화되고 단순화된 프로세스를 제공합니다. 다양한 LLM을 지원하며 입력 파서 구성 요소는 사용자와의 상호 작용을 향상시킵니다.
